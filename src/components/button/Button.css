@@ -1,0 +1,18 @@
+.custom-button{
+    text-transform: uppercase;
+    overflow: none;
+    width: max-content;
+    background-color: #4caf4c;
+    border: none;
+    box-sizing: border-box;
+    padding: 20px;
+    color: #fff;
+    font-size: 14px;
+    transition: all .3s ease;
+    cursor: pointer;
+}
+.custom-button:hover,
+.custom-button:active,
+.custom-button:focus{
+    background-color: #43a047;
+}
